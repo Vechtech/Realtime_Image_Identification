@@ -1,0 +1,33 @@
+.heading{
+    width: 100%;
+    padding: 15px;
+    margin-top: 0;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.head{
+    margin: 15px;
+    background-color: lime;
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 30px;
+}
+.head_2{
+    padding: 5px;
+    font-size: 20px;
+    color: crimson;
+    border-radius: 30px;
+}
+.footer{
+    bottom: 0;
+    background-color: cyan;
+    color: rgb(30, 6, 138);
+    font-size: 15px;
+    position: fixed;
+    padding: 5px;
+}
+canvas{
+    margin-top: 50px;
+    border-radius: 30px;
+    border: 5px solid lime;
+}
